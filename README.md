@@ -15,8 +15,8 @@ Sample Usage
 ```python
 >>> import TfIdfCategoryWeighting
 >>> Tf_idf_cw_vectorizer = TfIdfCategoryWeighting.TfidfPro_Vectorizer(use_idf=True,use_Wt=True)
->>> Tf_idf_cw_vectorizer.fit(X_train,Y_train)
->>> X_train = Tf_idf_cw_vectorizer.transform(X_train)
+>>> Tf_idf_cw_vectorizer.fit(X,Y)
+>>> X_vec = Tf_idf_cw_vectorizer.transform(X)
 ```
 
 Installation
