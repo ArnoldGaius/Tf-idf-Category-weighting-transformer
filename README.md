@@ -1,5 +1,8 @@
 # Tf-idf类目加权转换 Tf-idf-Category-weighting-transformer
 
+[![PyPI version](https://img.shields.io/badge/python-2.7-blue.svg)](https://badge.fury.io/py/Tf-Idf-CategoryWeighting)
+[![PyPI version](https://badge.fury.io/py/Tf-Idf-CategoryWeighting.svg)](https://badge.fury.io/py/Tf-Idf-CategoryWeighting)
+
 Formula Derivation
 =========================
 ![main-formula](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula/main-formula.png)
