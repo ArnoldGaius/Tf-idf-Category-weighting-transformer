@@ -18,3 +18,7 @@ Sample Usage
 >>> Tf_idf_cw_vectorizer.fit(X_train,Y_train)
 >>> X_train = Tf_idf_cw_vectorizer.transform(X_train)
 ```
+
+Installation
+----------------------
+    $ pip install Tf-Idf-CategoryWeighting
