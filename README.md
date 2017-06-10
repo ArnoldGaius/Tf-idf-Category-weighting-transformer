@@ -5,10 +5,10 @@
 
 Formula Derivation
 =========================
-![main-formula](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula/main-formula.png)
-![wt](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula/wt-formula.png)
-![N](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula/N.png)
-![Nt](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula/Nt.png)
+![main-formula](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula_png/main-formula.png)
+![wt](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula_png/wt-formula.png)
+![N](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula_png/N.png)
+![Nt](https://github.com/ArnoldGaius/Tf-idf-Category-weighting-transformer/blob/master/formula_png/Nt.png)
 
 Sample Usage
 ===================
